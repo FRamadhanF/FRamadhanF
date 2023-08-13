@@ -6,7 +6,7 @@
 
 - 🔭 **i am a final-year Bachelor of Engineering student, Major in Informatics; Minor in Multimedia and Game Technology.🎮**
 
-- 👨‍💻 All of my projects are available at [https://faldiramadhan.vercel.app/](https://faldiramadhan.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://faldiramadhan.vercel.app/](faldiramadhan.vercel.app/)
 
 - 📫 How to reach me **faldiramadhan03@gmail.com**
 
